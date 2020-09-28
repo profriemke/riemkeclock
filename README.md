@@ -6,6 +6,7 @@ This is a quick & dirty code for a clock for Bangle.js.
 The code is not complete.
 
 ## Features
+- Of course: Shows time
 - Right touch: Show date
 - Left touch: Start touch app launcher
 - BTN1: Enable/disable BLE
